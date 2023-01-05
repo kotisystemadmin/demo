@@ -3,6 +3,10 @@ second line
 third line
 fourth line
 fifth line
+<<<<<<< HEAD
 test
 test2
 test4
+=======
+sixth line
+>>>>>>> c5e8e68f17a1928237904c29e6c8d0a863e16d32
